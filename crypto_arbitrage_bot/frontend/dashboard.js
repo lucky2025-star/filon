@@ -215,12 +215,18 @@ async function deleteCredentials(exchange) {
 // Fetch and display prices
 async function fetchPrices() {
     try {
-        // Use proper comma encoding
-        const response = await fetch(`${API_BASE}/prices/BTC%2FUSDT,ETH%2FUSDT`);
+        // Fetch prices with proper symbol format
+        const response = await fetch(`${API_BASE}/prices/BTC/USDT,ETH/USDT`);
+        if (!response.ok) {
+            console.error(`Prices API error: ${response.status}`);
+            displayPrices({ prices: {}, configured_exchanges: [] });
+            return;
+        }
         const data = await response.json();
         displayPrices(data);
     } catch (error) {
         console.error('Error fetching prices:', error);
+        displayPrices({ prices: {}, configured_exchanges: [] });
     }
 }
 

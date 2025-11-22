@@ -688,3 +688,245 @@
 2025-11-22 04:24:30,892 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
 2025-11-22 04:25:30,910 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
 2025-11-22 04:26:31,186 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:27:30,854 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:28:30,830 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:29:18,947 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:29:18,954 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:29:18,955 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:29:18,955 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:29:18,956 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:29:18,956 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:29:18,970 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:29:18,977 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:29:18,978 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:29:18,978 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:29:18,979 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:29:18,979 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:29:18,992 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:29:18,998 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:29:18,999 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:29:18,999 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:29:18,999 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:29:19,000 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:29:28,529 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:29:31,347 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:29:33,972 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:29:38,949 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:29:41,766 - arbitrage_bot - INFO - Deleted 2 credentials for binance
+2025-11-22 04:29:43,962 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:29:44,802 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:29:49,788 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:29:54,868 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:29:59,835 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:30:04,803 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:30:09,449 - arbitrage_bot - INFO - Credential saved: binance_api_key
+2025-11-22 04:30:09,449 - arbitrage_bot - INFO - Credential saved: binance_api_secret
+2025-11-22 04:30:09,815 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:30:14,837 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:30:19,824 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:30:24,805 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:30:30,830 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:30:35,821 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:30:40,810 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:31:31,378 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:32:30,842 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:33:30,854 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:33:48,459 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:34:30,836 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:35:02,141 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:35:04,833 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:35:10,518 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:35:15,831 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:35:20,810 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:35:25,830 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:35:30,924 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:35:35,833 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:35:43,335 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:35:43,350 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:35:43,352 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:35:43,352 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:35:43,353 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:35:43,353 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:35:43,368 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:35:43,374 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:35:43,375 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:35:43,375 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:35:43,375 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:35:43,376 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:35:43,389 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:35:43,394 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:35:43,395 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:35:43,395 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:35:43,396 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:35:43,396 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:35:46,086 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:35:50,832 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:35:55,777 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:36:00,820 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:36:05,837 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:36:10,804 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:36:30,887 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:37:37,427 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:38:31,063 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:39:30,896 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:40:30,916 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:41:31,204 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:42:31,068 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:43:31,088 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:44:31,419 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:45:31,040 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:46:30,921 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:47:31,081 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:48:30,884 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:49:31,130 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:49:55,436 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:50:00,861 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:50:06,064 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:50:10,813 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:50:15,837 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:50:21,510 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:50:26,048 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:50:30,932 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:50:36,173 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:50:40,836 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:50:45,857 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:50:50,838 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:50:55,870 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:51:30,857 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:52:30,910 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:53:30,907 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:54:30,920 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:54:43,830 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:54:45,836 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:54:50,888 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:54:55,879 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:55:00,850 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:55:05,880 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:55:10,842 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:55:15,827 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:55:20,907 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:55:25,852 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:55:30,896 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:55:35,819 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:55:41,125 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:56:30,926 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:57:30,870 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:58:31,102 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:59:31,724 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:00:30,935 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:01:31,048 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:02:31,065 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:03:22,553 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:03:26,012 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:03:30,837 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:03:35,842 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:03:40,866 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:03:45,884 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:03:50,816 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:03:55,855 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:04:00,853 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:04:05,871 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:04:10,818 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:04:15,863 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:04:20,856 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:04:30,971 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:05:30,922 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:06:08,634 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:06:10,995 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:06:15,837 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:06:20,874 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:06:25,873 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:06:30,865 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:06:35,855 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:06:40,841 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:06:45,868 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:06:50,822 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:06:55,860 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:07:00,840 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:07:05,918 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:07:30,877 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:08:30,913 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:09:30,908 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:10:31,069 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:11:30,930 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:12:31,224 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:13:31,084 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:14:31,244 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:15:31,134 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:16:31,114 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:17:30,891 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:18:31,119 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:19:30,929 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:20:31,203 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:21:30,921 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:22:31,039 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:23:31,424 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 05:29:45,415 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:29:55,426 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin GET https://api.kucoin.com/api/v1/accounts?type=trade
+2025-11-22 05:29:55,902 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:29:56,663 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:30:00,013 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:30:01,371 - arbitrage_bot - INFO - Deleted 2 credentials for binance
+2025-11-22 05:30:05,115 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:30:10,057 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:30:15,116 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:30:20,151 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:30:25,077 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:30:30,083 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:30:31,263 - arbitrage_bot - INFO - Credential saved: bybit_api_key
+2025-11-22 05:30:31,263 - arbitrage_bot - INFO - Credential saved: bybit_api_secret
+2025-11-22 05:30:35,076 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:30:40,069 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:30:45,057 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:30:50,086 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:30:55,081 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:31:00,997 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:31:05,874 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:31:12,666 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:31:15,841 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:31:21,049 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:31:25,853 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:31:30,889 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:31:35,835 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:31:40,860 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:31:45,870 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:31:50,853 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:31:55,862 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:32:30,882 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:33:23,984 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:33:25,114 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:33:30,072 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:33:35,106 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:33:41,065 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:33:46,102 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:33:51,076 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:33:56,149 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:34:00,856 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:34:05,886 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:34:10,905 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:34:15,849 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:34:20,834 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:34:25,866 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:34:30,895 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:35:30,968 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:36:31,220 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:37:31,120 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:38:31,085 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 05:39:44,827 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 05:39:44,838 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 05:39:44,839 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 05:39:44,840 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 05:39:44,841 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 05:39:44,853 - arbitrage_bot - INFO - Initialized bybit exchange
+2025-11-22 05:39:44,854 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 05:39:44,860 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 05:39:44,861 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 05:39:44,862 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 05:39:44,862 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 05:39:44,871 - arbitrage_bot - INFO - Initialized bybit exchange
+2025-11-22 05:39:44,872 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 05:39:44,879 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 05:39:44,880 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 05:39:44,880 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 05:39:44,881 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 05:39:44,892 - arbitrage_bot - INFO - Initialized bybit exchange
