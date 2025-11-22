@@ -1,0 +1,690 @@
+2025-11-22 02:21:29,916 - arbitrage_bot - INFO - Logger initialized successfully
+2025-11-22 02:29:41,534 - arbitrage_bot - INFO - Logger initialized successfully
+2025-11-22 02:34:41,516 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:34:41,516 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:34:41,517 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:34:41,517 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:34:41,517 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:34:41,518 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:34:41,518 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:34:41,518 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:34:41,519 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:34:41,519 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:34:41,519 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:34:41,519 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:34:41,520 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:34:41,520 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:34:41,520 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:34:41,521 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:34:41,521 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:34:41,521 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:35:47,085 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:35:47,086 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:35:47,087 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:35:47,087 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:35:47,088 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:35:47,088 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:35:47,088 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:35:47,089 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:35:47,089 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:35:47,090 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:35:47,090 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:35:47,091 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:35:47,091 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:35:47,092 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:35:47,092 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:35:47,093 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:35:47,099 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:35:47,101 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:35:52,742 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:35:52,742 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:35:52,743 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:35:52,743 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:35:52,743 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:35:52,744 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:35:52,744 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:35:52,744 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:35:52,744 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:35:52,745 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:35:52,745 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:35:52,745 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:35:52,746 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:35:52,746 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:35:52,746 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:35:52,746 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:35:52,747 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:35:52,747 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:35:59,407 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:35:59,407 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:35:59,408 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:35:59,408 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:35:59,408 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:35:59,409 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:35:59,409 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:35:59,409 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:35:59,410 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:35:59,410 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:35:59,410 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:35:59,410 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:35:59,411 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:35:59,411 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:35:59,411 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:35:59,411 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:35:59,412 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:35:59,412 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:36:06,569 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:36:06,569 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:36:06,570 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:36:06,570 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:36:06,570 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:36:06,571 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:36:06,571 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:36:06,571 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:36:06,572 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:36:06,572 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:36:06,572 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:36:06,572 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:36:06,573 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:36:06,573 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:36:06,573 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:36:06,574 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:36:06,574 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:36:06,574 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:36:13,525 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:36:13,525 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:36:13,525 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:36:13,526 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:36:13,526 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:36:13,526 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:36:13,526 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:36:13,527 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:36:13,527 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:36:13,527 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:36:13,528 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:36:13,528 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:36:13,528 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:36:13,528 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:36:13,529 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:36:13,529 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:36:13,529 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:36:13,529 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:37:20,648 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:37:20,648 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:37:20,649 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:37:20,649 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:37:20,649 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:37:20,650 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:37:20,650 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:37:20,650 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:37:20,650 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:37:20,651 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:37:20,651 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:37:20,651 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:37:20,652 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:37:20,652 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:37:20,652 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:37:20,652 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:37:20,653 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:37:20,653 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:40:57,829 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:40:57,829 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:40:57,829 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:40:57,830 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:40:57,830 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:40:57,830 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:40:57,831 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:40:57,831 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:40:57,831 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:40:57,831 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:40:57,832 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:40:57,832 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:40:57,832 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:40:57,832 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:40:57,833 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:40:57,833 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:40:57,833 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:40:57,834 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:44:41,188 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:44:41,231 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:44:41,231 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:44:41,231 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:44:41,232 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:44:41,232 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:44:41,232 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:44:41,233 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:44:41,234 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:44:41,234 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:44:41,234 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:44:41,235 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:44:41,235 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:44:41,235 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:44:41,236 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:44:41,236 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:44:41,236 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:44:41,237 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:45:24,144 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:45:24,144 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:45:24,145 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:45:24,145 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:45:24,145 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:45:24,146 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:45:24,146 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:45:24,147 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:45:24,147 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:45:24,148 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:45:24,148 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:45:24,149 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:45:24,149 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:45:24,150 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:45:24,150 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:45:24,151 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:45:24,152 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:45:24,153 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:46:36,842 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:46:36,843 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:46:36,843 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:46:36,844 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:46:36,844 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:46:36,845 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:46:36,846 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:46:36,846 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:46:36,847 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:46:36,847 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:46:36,848 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:46:36,848 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 02:46:36,848 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 02:46:36,849 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 02:46:36,850 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 02:46:36,850 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 02:46:36,851 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 02:46:36,853 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:25:42,234 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:25:42,234 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 03:25:42,235 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:25:42,235 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:25:42,236 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:25:42,236 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:25:42,236 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:25:42,237 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 03:25:42,237 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:25:42,237 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:25:42,238 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:25:42,238 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:25:42,238 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:25:42,239 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 03:25:42,239 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:25:42,239 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:25:42,240 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:25:42,240 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:26:03,033 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:26:03,033 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 03:26:03,033 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:26:03,034 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:26:03,034 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:26:03,034 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:26:03,034 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:26:03,035 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 03:26:03,035 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:26:03,035 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:26:03,035 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:26:03,036 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:26:03,036 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:26:03,036 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 03:26:03,036 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:26:03,037 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:26:03,037 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:26:03,037 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:30:07,378 - arbitrage_bot - INFO - Credential saved: test
+2025-11-22 03:31:26,097 - arbitrage_bot - INFO - Credential saved: kucoin_api_key
+2025-11-22 03:31:26,098 - arbitrage_bot - INFO - Credential saved: kucoin_api_secret
+2025-11-22 03:32:58,619 - arbitrage_bot - INFO - Credential saved: kucoin_api_key
+2025-11-22 03:32:58,620 - arbitrage_bot - INFO - Credential saved: kucoin_api_secret
+2025-11-22 03:33:05,909 - arbitrage_bot - INFO - Credential saved: kucoin_api_key
+2025-11-22 03:33:05,910 - arbitrage_bot - INFO - Credential saved: kucoin_api_secret
+2025-11-22 03:37:36,668 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:37:36,669 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 03:37:36,669 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:37:36,669 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:37:36,669 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:37:36,669 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:37:36,670 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:37:36,670 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 03:37:36,670 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:37:36,670 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:37:36,670 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:37:36,670 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:37:36,671 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:37:36,671 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 03:37:36,671 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:37:36,671 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:37:36,671 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:37:36,671 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:38:20,559 - arbitrage_bot - INFO - Credential saved: kucoin_api_key
+2025-11-22 03:38:20,559 - arbitrage_bot - INFO - Credential saved: kucoin_api_secret
+2025-11-22 03:40:02,856 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:40:02,862 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:40:02,862 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:40:02,862 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:40:02,863 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:40:02,863 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:40:02,863 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:40:02,871 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:40:02,872 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:40:02,872 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:40:02,872 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:40:02,873 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:40:02,873 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:40:02,879 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:40:02,879 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:40:02,879 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:40:02,880 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:40:02,880 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:40:21,689 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:40:21,865 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:40:24,327 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:40:29,233 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:40:34,211 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:40:39,242 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:40:44,231 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:40:44,610 - arbitrage_bot - INFO - Credential saved: kucoin_api_key
+2025-11-22 03:40:44,610 - arbitrage_bot - INFO - Credential saved: kucoin_api_secret
+2025-11-22 03:40:49,281 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:40:54,234 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:40:59,229 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:41:04,250 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:41:09,214 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:41:16,026 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:41:16,330 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:41:21,313 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:41:26,374 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:41:31,335 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:41:36,345 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:41:41,337 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:41:42,446 - arbitrage_bot - INFO - Credential saved: binance_api_key
+2025-11-22 03:41:42,447 - arbitrage_bot - INFO - Credential saved: binance_api_secret
+2025-11-22 03:41:46,345 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:41:51,362 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:41:56,342 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:42:01,513 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:42:06,535 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:42:11,590 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:42:16,535 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:42:21,576 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:42:26,572 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:42:31,534 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:43:18,531 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 03:43:18,532 - arbitrage_bot - WARNING - KuCoin password not found for kucoin
+2025-11-22 03:43:18,538 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:43:18,539 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:43:18,539 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:43:18,540 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:43:18,540 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:43:18,557 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 03:43:18,557 - arbitrage_bot - WARNING - KuCoin password not found for kucoin
+2025-11-22 03:43:18,568 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:43:18,569 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:43:18,569 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:43:18,570 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:43:18,570 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:43:18,600 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 03:43:18,602 - arbitrage_bot - WARNING - KuCoin password not found for kucoin
+2025-11-22 03:43:18,611 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:43:18,611 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:43:18,611 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:43:18,612 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:43:18,612 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:43:22,608 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:43:24,676 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:43:33,581 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:43:33,582 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:43:38,780 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:43:38,780 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:43:43,786 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:43:43,786 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:43:48,743 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:43:48,744 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:43:53,781 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:43:53,782 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:43:58,927 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:43:58,927 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:44:03,403 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:44:03,403 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:44:08,380 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:44:08,380 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:44:13,464 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:44:13,464 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:44:18,423 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:44:18,423 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:44:23,383 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:44:23,383 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:44:28,408 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:44:28,408 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:44:33,409 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:44:33,410 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:44:38,388 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:44:38,388 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:44:43,371 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:44:43,371 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:44:48,183 - arbitrage_bot - INFO - Credential saved: kucoin_api_key
+2025-11-22 03:44:48,184 - arbitrage_bot - INFO - Credential saved: kucoin_api_secret
+2025-11-22 03:44:48,185 - arbitrage_bot - INFO - Credential saved: kucoin_password
+2025-11-22 03:44:48,383 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:44:48,383 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:44:53,388 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:44:53,389 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:44:58,389 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:44:58,390 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:45:03,410 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:45:03,410 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:45:08,784 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:45:08,784 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:45:13,378 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:45:13,378 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:45:18,393 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:45:18,393 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:45:23,369 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:45:23,370 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:45:28,374 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:45:28,375 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:45:33,473 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:45:33,473 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:45:35,306 - arbitrage_bot - INFO - Credential saved: kucoin_api_key
+2025-11-22 03:45:35,306 - arbitrage_bot - INFO - Credential saved: kucoin_api_secret
+2025-11-22 03:45:35,306 - arbitrage_bot - INFO - Credential saved: kucoin_password
+2025-11-22 03:45:38,357 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:45:38,358 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:45:43,464 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:45:43,465 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:45:48,973 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:45:48,974 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:45:53,783 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:45:53,783 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:45:58,763 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:45:58,764 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:46:03,780 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:46:03,780 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:46:08,767 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:46:08,767 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:46:13,782 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:46:13,782 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:46:18,761 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:46:18,761 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:46:23,783 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:46:23,784 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:46:28,814 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:46:28,816 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:46:34,042 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:46:34,043 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:46:39,011 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:46:39,011 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:46:43,844 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:46:43,845 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:46:54,969 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:46:54,969 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:46:58,760 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:46:58,760 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:47:03,797 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:47:03,798 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:47:08,827 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:47:08,827 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin requires "password" credential
+2025-11-22 03:48:13,211 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 03:48:13,217 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:48:13,217 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:48:13,218 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:48:13,218 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:48:13,218 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:48:13,234 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 03:48:13,240 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:48:13,241 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:48:13,241 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:48:13,241 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:48:13,242 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:48:13,262 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 03:48:13,272 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:48:13,273 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:48:13,273 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:48:13,273 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:48:13,274 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:48:31,021 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:48:32,879 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin {"code":"400004","msg":"Invalid KC-API-PASSPHRASE"}
+2025-11-22 03:49:31,149 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:49:32,997 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin {"code":"400004","msg":"Invalid KC-API-PASSPHRASE"}
+2025-11-22 03:50:34,590 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:50:36,349 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin {"code":"400004","msg":"Invalid KC-API-PASSPHRASE"}
+2025-11-22 03:51:31,001 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:51:32,774 - arbitrage_bot - ERROR - Error fetching balance from kucoin: kucoin {"code":"400004","msg":"Invalid KC-API-PASSPHRASE"}
+2025-11-22 03:52:03,846 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 03:52:03,852 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:52:03,852 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:52:03,853 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:52:03,853 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:52:03,853 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:52:03,865 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 03:52:03,870 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:52:03,870 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:52:03,871 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:52:03,871 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:52:03,871 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:52:03,883 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 03:52:03,888 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:52:03,889 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:52:03,889 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:52:03,889 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:52:03,890 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:52:25,378 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:52:28,607 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:52:33,575 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:52:38,547 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:52:43,565 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:52:49,078 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:52:53,763 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:52:58,791 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:53:03,802 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:53:08,784 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:53:13,781 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:53:18,748 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:53:23,887 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:53:28,787 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:53:33,776 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:53:38,769 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:53:43,746 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:54:30,814 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:55:30,875 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:56:30,955 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:57:30,817 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:58:30,820 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:59:31,269 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 03:59:50,117 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 03:59:50,123 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:59:50,123 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:59:50,123 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:59:50,124 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:59:50,124 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:59:50,136 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 03:59:50,142 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:59:50,142 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:59:50,143 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:59:50,143 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:59:50,143 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:59:50,155 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 03:59:50,162 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 03:59:50,163 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:59:50,163 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:59:50,164 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:59:50,164 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:01:34,712 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:01:34,719 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:01:34,720 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:01:34,721 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:01:34,721 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:01:34,721 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:01:34,740 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:01:34,753 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:01:34,754 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:01:34,755 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:01:34,755 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:01:34,756 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:01:34,777 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:01:34,784 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:01:34,785 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:01:34,786 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:01:34,786 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:01:34,786 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:02:01,883 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:02:04,672 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:02:10,149 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:02:14,690 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:02:19,688 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:02:24,723 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:02:29,667 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:02:34,701 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:02:39,686 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:02:44,712 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:02:49,681 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:02:54,691 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:02:55,384 - arbitrage_bot - INFO - Credential saved: kucoin_api_key
+2025-11-22 04:02:55,384 - arbitrage_bot - INFO - Credential saved: kucoin_api_secret
+2025-11-22 04:02:55,385 - arbitrage_bot - INFO - Credential saved: kucoin_password
+2025-11-22 04:02:59,666 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:03:04,730 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:03:09,685 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:03:14,944 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:03:19,785 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:03:24,771 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:03:29,778 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:03:34,838 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:03:39,798 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:03:44,877 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:03:49,812 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:03:54,871 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:03:59,822 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:04:04,978 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:04:09,797 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:04:30,826 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:05:30,862 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:05:42,408 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:05:42,418 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:05:42,419 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:05:42,419 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:05:42,420 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:05:42,420 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:05:42,442 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:05:42,453 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:05:42,454 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:05:42,455 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:05:42,456 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:05:42,457 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:05:42,477 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:05:42,483 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:05:42,484 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:05:42,485 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:05:42,485 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:05:42,485 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:06:31,701 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:06:31,711 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:06:31,711 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:06:31,712 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:06:31,712 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:06:31,713 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:06:31,732 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:06:31,742 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:06:31,743 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:06:31,743 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:06:31,744 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:06:31,744 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:06:31,761 - arbitrage_bot - INFO - Initialized binance exchange
+2025-11-22 04:06:31,769 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 04:06:31,770 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 04:06:31,770 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 04:06:31,771 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 04:06:31,771 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 04:06:49,064 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:06:52,101 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:06:56,986 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:07:02,040 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:07:07,033 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:07:12,022 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:07:17,028 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:07:24,836 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:07:27,801 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:07:34,560 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:07:38,514 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:07:44,340 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:07:53,900 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:07:54,634 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:08:02,779 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:08:03,500 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:08:15,446 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:08:16,333 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:08:17,779 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:08:30,880 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:09:30,886 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:10:30,984 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:10:35,060 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:10:36,999 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:10:42,811 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:10:47,812 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:10:52,747 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:10:57,803 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:11:02,815 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:11:07,796 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:11:12,802 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:11:17,784 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:11:22,811 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:11:26,998 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:11:33,331 - arbitrage_bot - INFO - Deleted 2 credentials for binance
+2025-11-22 04:11:33,637 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:11:37,061 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:11:43,065 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:11:53,260 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:11:57,523 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:12:02,552 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:12:07,547 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:12:12,517 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:12:12,937 - arbitrage_bot - INFO - Credential saved: binance_api_key
+2025-11-22 04:12:12,938 - arbitrage_bot - INFO - Credential saved: binance_api_secret
+2025-11-22 04:12:17,526 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:12:22,620 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:12:27,788 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:12:32,817 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:12:37,821 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:12:42,809 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:12:47,810 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:12:52,788 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:12:57,829 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:13:02,824 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:13:07,812 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:13:12,784 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:13:17,813 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:13:22,804 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:13:30,875 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:14:30,851 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:15:30,980 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:15:51,228 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:15:52,809 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:15:57,798 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:16:02,852 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:16:07,812 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:16:11,322 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:16:16,820 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:16:21,817 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:16:26,781 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:16:31,816 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:16:36,849 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:16:41,799 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:16:46,787 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:16:51,796 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:16:56,817 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:17:01,821 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:17:06,834 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:17:12,072 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:17:30,876 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:18:30,826 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:19:31,444 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:20:31,293 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:21:30,892 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2015,"msg":"Invalid API-key, IP, or permissions for action."}
+2025-11-22 04:22:31,057 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:23:31,033 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:24:30,892 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:25:30,910 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}
+2025-11-22 04:26:31,186 - arbitrage_bot - ERROR - Error fetching balance from binance: binance {"code":-2008,"msg":"Invalid Api-Key ID."}

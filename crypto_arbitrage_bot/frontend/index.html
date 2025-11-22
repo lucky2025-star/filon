@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Arbitrage Bot Dashboard</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🤖 Crypto Arbitrage Bot Dashboard</h1>
+            <div class="status">
+                <span id="status-indicator" class="status-indicator">●</span>
+                <span id="status-text">Connecting...</span>
+            </div>
+        </header>
+
+        <nav class="tabs">
+            <button class="tab-button active" data-tab="prices">Live Prices</button>
+            <button class="tab-button" data-tab="opportunities">Opportunities</button>
+            <button class="tab-button" data-tab="balances">Balances</button>
+            <button class="tab-button" data-tab="trades">Trades</button>
+            <button class="tab-button" data-tab="settings">Settings</button>
+        </nav>
+
+        <!-- Live Prices View -->
+        <div id="prices" class="tab-content active">
+            <h2>Live Price Comparison</h2>
+            <table class="price-table">
+                <thead>
+                    <tr>
+                        <th>Exchange</th>
+                        <th>Bid</th>
+                        <th>Ask</th>
+                        <th>Last Trade</th>
+                        <th>Spread %</th>
+                    </tr>
+                </thead>
+                <tbody id="price-tbody">
+                    <tr><td colspan="5">Loading...</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Arbitrage Opportunities -->
+        <div id="opportunities" class="tab-content">
+            <h2>Top Arbitrage Opportunities</h2>
+            <table class="opportunities-table">
+                <thead>
+                    <tr>
+                        <th>Symbol</th>
+                        <th>Buy Exchange</th>
+                        <th>Sell Exchange</th>
+                        <th>Buy Price</th>
+                        <th>Sell Price</th>
+                        <th>Spread %</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="opportunities-tbody">
+                    <tr><td colspan="7">No opportunities detected</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Account Balances -->
+        <div id="balances" class="tab-content">
+            <h2>Account Balances</h2>
+            <table class="balances-table">
+                <thead>
+                    <tr>
+                        <th>Exchange</th>
+                        <th>Asset</th>
+                        <th>Available</th>
+                        <th>On Order</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+                <tbody id="balances-tbody">
+                    <tr><td colspan="5">Loading...</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Trade History -->
+        <div id="trades" class="tab-content">
+            <h2>Trade History</h2>
+            <table class="trades-table">
+                <thead>
+                    <tr>
+                        <th>Time</th>
+                        <th>Symbol</th>
+                        <th>Buy Exchange</th>
+                        <th>Sell Exchange</th>
+                        <th>Amount</th>
+                        <th>Status</th>
+                        <th>P&L</th>
+                    </tr>
+                </thead>
+                <tbody id="trades-tbody">
+                    <tr><td colspan="7">No trades yet</td></tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!-- Settings -->
+        <div id="settings" class="tab-content">
+            <h2>Bot Settings & API Credentials</h2>
+            
+            <div class="settings-section">
+                <h3>Trading Parameters</h3>
+                <div class="settings-form">
+                    <label>Min Spread Threshold (%):</label>
+                    <input type="number" id="min-spread" value="0.3" step="0.1">
+                    
+                    <label>Max Position Size (BTC):</label>
+                    <input type="number" id="max-position" value="1.0" step="0.1">
+                    
+                    <label>Enable Auto Trading:</label>
+                    <input type="checkbox" id="auto-trading">
+                    
+                    <button id="save-settings">Save Trading Settings</button>
+                </div>
+            </div>
+
+            <div class="settings-section">
+                <h3>🔐 Exchange API Credentials</h3>
+                <p style="color: #888; margin-bottom: 15px;">All credentials are encrypted before storage. Never stored in plaintext.</p>
+                
+                <div id="credentials-form" class="credentials-form">
+                    <!-- Exchange 1: Binance -->
+                    <div class="exchange-block">
+                        <div class="exchange-header">
+                            <h4>Binance</h4>
+                            <button class="delete-btn" onclick="deleteCredentials('binance')">🗑️ Delete</button>
+                        </div>
+                        <input type="text" placeholder="API Key" class="exchange-input" data-exchange="binance" data-type="api_key">
+                        <input type="password" placeholder="API Secret" class="exchange-input" data-exchange="binance" data-type="api_secret">
+                    </div>
+
+                    <!-- Exchange 2: KuCoin -->
+                    <div class="exchange-block">
+                        <div class="exchange-header">
+                            <h4>KuCoin <span style="font-size: 12px; color: #888;">(requires API Password)</span></h4>
+                            <button class="delete-btn" onclick="deleteCredentials('kucoin')">🗑️ Delete</button>
+                        </div>
+                        <input type="text" placeholder="API Key" class="exchange-input" data-exchange="kucoin" data-type="api_key">
+                        <input type="password" placeholder="API Secret" class="exchange-input" data-exchange="kucoin" data-type="api_secret">
+                        <input type="password" placeholder="API Password" class="exchange-input" data-exchange="kucoin" data-type="password">
+                    </div>
+
+                    <!-- Exchange 3: MEXC -->
+                    <div class="exchange-block">
+                        <div class="exchange-header">
+                            <h4>MEXC</h4>
+                            <button class="delete-btn" onclick="deleteCredentials('mexc')">🗑️ Delete</button>
+                        </div>
+                        <input type="text" placeholder="API Key" class="exchange-input" data-exchange="mexc" data-type="api_key">
+                        <input type="password" placeholder="API Secret" class="exchange-input" data-exchange="mexc" data-type="api_secret">
+                    </div>
+
+                    <!-- Exchange 4: OKX -->
+                    <div class="exchange-block">
+                        <div class="exchange-header">
+                            <h4>OKX <span style="font-size: 12px; color: #888;">(requires API Password)</span></h4>
+                            <button class="delete-btn" onclick="deleteCredentials('okx')">🗑️ Delete</button>
+                        </div>
+                        <input type="text" placeholder="API Key" class="exchange-input" data-exchange="okx" data-type="api_key">
+                        <input type="password" placeholder="API Secret" class="exchange-input" data-exchange="okx" data-type="api_secret">
+                        <input type="password" placeholder="API Password" class="exchange-input" data-exchange="okx" data-type="password">
+                    </div>
+
+                    <!-- Exchange 5: Gate.io -->
+                    <div class="exchange-block">
+                        <div class="exchange-header">
+                            <h4>Gate.io</h4>
+                            <button class="delete-btn" onclick="deleteCredentials('gateio')">🗑️ Delete</button>
+                        </div>
+                        <input type="text" placeholder="API Key" class="exchange-input" data-exchange="gateio" data-type="api_key">
+                        <input type="password" placeholder="API Secret" class="exchange-input" data-exchange="gateio" data-type="api_secret">
+                    </div>
+
+                    <!-- Exchange 6: Bybit -->
+                    <div class="exchange-block">
+                        <div class="exchange-header">
+                            <h4>Bybit</h4>
+                            <button class="delete-btn" onclick="deleteCredentials('bybit')">🗑️ Delete</button>
+                        </div>
+                        <input type="text" placeholder="API Key" class="exchange-input" data-exchange="bybit" data-type="api_key">
+                        <input type="password" placeholder="API Secret" class="exchange-input" data-exchange="bybit" data-type="api_secret">
+                    </div>
+                </div>
+
+                <button id="save-credentials" class="save-credentials-btn">🔒 Save & Encrypt Credentials</button>
+                <div id="credential-status" class="credential-status"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/dashboard.js"></script>
+</body>
+</html>

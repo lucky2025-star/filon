@@ -1,0 +1,13 @@
+ccxt
+pandas
+aiohttp
+websocket-client
+cryptography
+pydantic
+sqlalchemy
+flask
+plotly
+python-dotenv
+uvicorn
+fastapi
+requests

@@ -1,0 +1,295 @@
+nohup: ignoring input
+2025-11-22 03:26:03,033 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:26:03,033 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 03:26:03,033 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:26:03,034 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:26:03,034 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:26:03,034 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:26:03,034 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:26:03,035 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 03:26:03,035 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:26:03,035 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:26:03,035 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:26:03,036 - arbitrage_bot - WARNING - API credentials not found for bybit
+2025-11-22 03:26:03,036 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 03:26:03,036 - arbitrage_bot - WARNING - API credentials not found for kucoin
+2025-11-22 03:26:03,036 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 03:26:03,037 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 03:26:03,037 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 03:26:03,037 - arbitrage_bot - WARNING - API credentials not found for bybit
+INFO:     Started server process [6002]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     154.161.147.154:0 - "GET / HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /static/styles.css HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /static/dashboard.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38060 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET / HTTP/1.1" 200 OK
+2025-11-22 03:30:07,378 - arbitrage_bot - INFO - Credential saved: test
+INFO:     127.0.0.1:55390 - "POST /save-credentials HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET / HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /static/dashboard.js HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /static/styles.css HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /trades HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+2025-11-22 03:31:26,097 - arbitrage_bot - INFO - Credential saved: kucoin_api_key
+2025-11-22 03:31:26,098 - arbitrage_bot - INFO - Credential saved: kucoin_api_secret
+INFO:     154.161.147.154:0 - "POST /save-credentials HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET / HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /static/dashboard.js HTTP/1.1" 304 Not Modified
+INFO:     154.161.147.154:0 - "GET /static/styles.css HTTP/1.1" 304 Not Modified
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /trades HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET / HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /trades HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+2025-11-22 03:32:58,619 - arbitrage_bot - INFO - Credential saved: kucoin_api_key
+2025-11-22 03:32:58,620 - arbitrage_bot - INFO - Credential saved: kucoin_api_secret
+INFO:     154.161.147.154:0 - "POST /save-credentials HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+2025-11-22 03:33:05,909 - arbitrage_bot - INFO - Credential saved: kucoin_api_key
+2025-11-22 03:33:05,910 - arbitrage_bot - INFO - Credential saved: kucoin_api_secret
+INFO:     154.161.147.154:0 - "POST /save-credentials HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49266 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET / HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /static/styles.css HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /static/dashboard.js HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /trades HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57464 - "GET /prices/BTC/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /prices/BTC/USDT%2CETH/USDT HTTP/1.1" 404 Not Found
+INFO:     154.161.147.154:0 - "GET /opportunities HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /balances HTTP/1.1" 200 OK
+INFO:     154.161.147.154:0 - "GET /health HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [6002]
