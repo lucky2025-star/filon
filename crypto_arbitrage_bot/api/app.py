@@ -287,11 +287,17 @@ def check_credentials():
             "credentials": {}
         }
 
-@app.get("/prices/{symbols}")
-def get_prices(symbols: str):
-    """Get current prices for symbols"""
+@app.get("/prices")
+def get_prices(pairs: str = "BTC/USDT,ETH/USDT"):
+    """Get current prices for trading pairs
+    
+    Usage:
+    - /prices?pairs=BTC/USDT,ETH/USDT
+    - /prices (uses default BTC/USDT,ETH/USDT)
+    """
     try:
-        symbol_list = symbols.split(",")
+        # Split the comma-separated pairs
+        symbol_list = [p.strip() for p in pairs.split(",")]
         prices = price_monitor.fetch_prices(symbol_list)
         
         # Check which exchanges are configured
@@ -303,6 +309,31 @@ def get_prices(symbols: str):
             "configured_exchanges": configured_exchanges,
             "unconfigured_exchanges": unconfigured,
             "message": f"Prices from {len(configured_exchanges)} configured exchanges" if configured_exchanges else "⚠️ No exchanges configured - add API credentials in Settings"
+        }
+    except Exception as e:
+        logger.error(f"Error fetching prices: {str(e)}")
+        return {
+            "prices": {},
+            "error": str(e),
+            "message": "Error fetching prices"
+        }
+
+@app.get("/prices/{symbols}")
+def get_prices_legacy(symbols: str):
+    """Legacy path-based prices endpoint for backward compatibility"""
+    try:
+        # Handle URL-encoded commas (%2C)
+        symbols = symbols.replace("%2C", ",").replace("%2F", "/")
+        symbol_list = [s.strip() for s in symbols.split(",")]
+        prices = price_monitor.fetch_prices(symbol_list)
+        
+        # Check which exchanges are configured
+        configured_exchanges = list(price_monitor.exchange_manager.exchanges.keys())
+        
+        return {
+            "prices": prices,
+            "configured_exchanges": configured_exchanges,
+            "message": f"Prices from {len(configured_exchanges)} configured exchanges" if configured_exchanges else "⚠️ No exchanges configured"
         }
     except Exception as e:
         logger.error(f"Error fetching prices: {str(e)}")

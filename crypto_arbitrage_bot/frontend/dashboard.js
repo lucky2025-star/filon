@@ -215,8 +215,9 @@ async function deleteCredentials(exchange) {
 // Fetch and display prices
 async function fetchPrices() {
     try {
-        // Fetch prices with proper symbol format
-        const response = await fetch(`${API_BASE}/prices/BTC/USDT,ETH/USDT`);
+        // Use query parameter format for cleaner URLs
+        const pairs = "BTC/USDT,ETH/USDT";
+        const response = await fetch(`${API_BASE}/prices?pairs=${encodeURIComponent(pairs)}`);
         if (!response.ok) {
             console.error(`Prices API error: ${response.status}`);
             displayPrices({ prices: {}, configured_exchanges: [] });
