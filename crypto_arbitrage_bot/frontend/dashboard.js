@@ -212,26 +212,36 @@ async function deleteCredentials(exchange) {
     }
 }
 
+// Fetch and display prices with custom pairs
+async function updatePrices() {
+    const pairsInput = document.getElementById('pairs-input');
+    const exchangeFilter = document.getElementById('exchange-filter');
+    
+    const pairs = pairsInput ? pairsInput.value : "BTC/USDT,ETH/USDT";
+    const exchange = exchangeFilter ? exchangeFilter.value : "";
+    
+    await fetchPrices(pairs, exchange);
+}
+
 // Fetch and display prices
-async function fetchPrices() {
+async function fetchPrices(pairs = "BTC/USDT,ETH/USDT", exchangeFilter = "") {
     try {
         // Use query parameter format for cleaner URLs
-        const pairs = "BTC/USDT,ETH/USDT";
         const response = await fetch(`${API_BASE}/prices?pairs=${encodeURIComponent(pairs)}`);
         if (!response.ok) {
             console.error(`Prices API error: ${response.status}`);
-            displayPrices({ prices: {}, configured_exchanges: [] });
+            displayPrices({ prices: {}, configured_exchanges: [] }, exchangeFilter);
             return;
         }
         const data = await response.json();
-        displayPrices(data);
+        displayPrices(data, exchangeFilter);
     } catch (error) {
         console.error('Error fetching prices:', error);
-        displayPrices({ prices: {}, configured_exchanges: [] });
+        displayPrices({ prices: {}, configured_exchanges: [] }, exchangeFilter);
     }
 }
 
-function displayPrices(data) {
+function displayPrices(data, exchangeFilter = "") {
     const tbody = document.getElementById('price-tbody');
     tbody.innerHTML = '';
     
@@ -244,7 +254,7 @@ function displayPrices(data) {
     if (!configured || configured.length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="5" style="text-align: center; padding: 20px; color: #666;">
+                <td colspan="6" style="text-align: center; padding: 20px; color: #666;">
                     <strong>⚠️ No exchanges configured</strong><br>
                     <small>Add your API credentials in the Settings tab to see live prices</small>
                 </td>
@@ -257,7 +267,7 @@ function displayPrices(data) {
     if (!prices || Object.keys(prices).length === 0) {
         tbody.innerHTML = `
             <tr>
-                <td colspan="5" style="text-align: center; padding: 20px; color: #666;">
+                <td colspan="6" style="text-align: center; padding: 20px; color: #666;">
                     <strong>Loading prices...</strong><br>
                     <small>${message || 'Fetching from ' + configured.length + ' exchanges'}</small>
                 </td>
@@ -267,23 +277,35 @@ function displayPrices(data) {
     }
     
     // Display prices
+    let rowCount = 0;
     for (const [symbol, exchanges] of Object.entries(prices)) {
-        for (const [exchange, data] of Object.entries(exchanges)) {
+        for (const [exchange, priceData] of Object.entries(exchanges)) {
+            // Apply exchange filter
+            if (exchangeFilter && exchange !== exchangeFilter) {
+                continue;
+            }
+            
             const row = document.createElement('tr');
-            const bid = (data.bid || 0).toFixed(2);
-            const ask = (data.ask || 0).toFixed(2);
-            const last = (data.last || 0).toFixed(2);
+            const bid = (priceData.bid || 0).toFixed(2);
+            const ask = (priceData.ask || 0).toFixed(2);
+            const last = (priceData.last || 0).toFixed(2);
             const spread = bid && ask ? (((ask - bid) / bid) * 100).toFixed(3) : 'N/A';
             
             row.innerHTML = `
-                <td>${exchange.toUpperCase()}</td>
-                <td>${bid === '0.00' ? '-' : bid}</td>
-                <td>${ask === '0.00' ? '-' : ask}</td>
-                <td>${last === '0.00' ? '-' : last}</td>
+                <td><strong>${exchange.toUpperCase()}</strong></td>
+                <td><strong>${symbol}</strong></td>
+                <td>${bid === '0.00' ? '-' : '$' + bid}</td>
+                <td>${ask === '0.00' ? '-' : '$' + ask}</td>
+                <td>${last === '0.00' ? '-' : '$' + last}</td>
                 <td class="spread-positive">${spread}%</td>
             `;
             tbody.appendChild(row);
+            rowCount++;
         }
+    }
+    
+    if (rowCount === 0) {
+        tbody.innerHTML = `<tr><td colspan="6" style="text-align: center; color: #999;">No prices match the selected filter</td></tr>`;
     }
 }
 
@@ -324,35 +346,98 @@ function displayOpportunities(opportunities) {
     });
 }
 
+// Fetch and display balances with filters
+async function updateBalances() {
+    const exchangeFilter = document.getElementById('balance-exchange-filter');
+    const assetFilter = document.getElementById('asset-filter');
+    
+    const exchange = exchangeFilter ? exchangeFilter.value : "";
+    const asset = assetFilter ? assetFilter.value.toUpperCase() : "";
+    
+    await fetchBalances(exchange, asset);
+}
+
 // Fetch and display balances
-async function fetchBalances() {
+async function fetchBalances(exchangeFilter = "", assetFilter = "") {
     try {
         const response = await fetch(`${API_BASE}/balances`);
         const balances = await response.json();
-        displayBalances(balances);
+        displayBalances(balances, exchangeFilter, assetFilter);
     } catch (error) {
         console.error('Error fetching balances:', error);
+        const tbody = document.getElementById('balances-tbody');
+        if (tbody) {
+            tbody.innerHTML = `<tr><td colspan="6" style="color: #e74c3c;">Error loading balances</td></tr>`;
+        }
     }
 }
 
-function displayBalances(balances) {
+function displayBalances(balances, exchangeFilter = "", assetFilter = "") {
     const tbody = document.getElementById('balances-tbody');
     tbody.innerHTML = '';
     
+    let rowCount = 0;
+    let totalValue = 0;
+    
     for (const [exchange, assets] of Object.entries(balances)) {
+        // Apply exchange filter
+        if (exchangeFilter && exchange !== exchangeFilter) {
+            continue;
+        }
+        
         for (const [asset, data] of Object.entries(assets)) {
+            // Apply asset filter
+            if (assetFilter && !asset.toUpperCase().includes(assetFilter)) {
+                continue;
+            }
+            
+            // Only show if has balance
             if (data.free > 0 || data.total > 0) {
                 const row = document.createElement('tr');
+                const total = (data.total || 0);
+                
+                // Estimate value (simple calculation)
+                let estimatedValue = 0;
+                if (asset === 'USDT' || asset === 'USD') {
+                    estimatedValue = total;
+                } else if (asset === 'BTC') {
+                    estimatedValue = total * 45000; // Rough estimate
+                } else if (asset === 'ETH') {
+                    estimatedValue = total * 2500; // Rough estimate
+                }
+                
+                totalValue += estimatedValue;
+                
                 row.innerHTML = `
-                    <td>${exchange}</td>
-                    <td>${asset}</td>
+                    <td><strong>${exchange.toUpperCase()}</strong></td>
+                    <td><strong>${asset}</strong></td>
                     <td>${(data.free || 0).toFixed(8)}</td>
                     <td>${(data.used || 0).toFixed(8)}</td>
-                    <td>${(data.total || 0).toFixed(8)}</td>
+                    <td class="highlight">${total.toFixed(8)}</td>
+                    <td>${estimatedValue > 0 ? '$' + estimatedValue.toFixed(2) : '-'}</td>
                 `;
                 tbody.appendChild(row);
+                rowCount++;
             }
         }
+    }
+    
+    if (rowCount === 0) {
+        tbody.innerHTML = `<tr><td colspan="6" style="text-align: center; padding: 20px; color: #999;">
+            <strong>No balances found</strong><br>
+            <small>Make sure you have configured exchange credentials</small>
+        </td></tr>`;
+    } else {
+        // Add total row
+        const totalRow = document.createElement('tr');
+        totalRow.style.borderTop = '2px solid #667eea';
+        totalRow.style.fontWeight = 'bold';
+        totalRow.style.backgroundColor = '#f5f5f5';
+        totalRow.innerHTML = `
+            <td colspan="5" style="text-align: right;">📊 Total Estimated Value:</td>
+            <td>$${totalValue.toFixed(2)}</td>
+        `;
+        tbody.appendChild(totalRow);
     }
 }
 

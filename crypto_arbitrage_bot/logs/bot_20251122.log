@@ -966,3 +966,39 @@
 2025-11-22 05:45:00,103 - arbitrage_bot - WARNING - API credentials not found for okx
 2025-11-22 05:45:00,104 - arbitrage_bot - WARNING - API credentials not found for gateio
 2025-11-22 05:45:00,116 - arbitrage_bot - INFO - Initialized bybit exchange
+2025-11-22 05:54:53,709 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 05:54:53,715 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 05:54:53,716 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 05:54:53,716 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 05:54:53,716 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 05:54:53,727 - arbitrage_bot - INFO - Initialized bybit exchange
+2025-11-22 05:54:53,727 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 05:54:53,736 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 05:54:53,736 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 05:54:53,737 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 05:54:53,738 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 05:54:53,747 - arbitrage_bot - INFO - Initialized bybit exchange
+2025-11-22 05:54:53,747 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 05:54:53,754 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 05:54:53,754 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 05:54:53,755 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 05:54:53,755 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 05:54:53,763 - arbitrage_bot - INFO - Initialized bybit exchange
+2025-11-22 06:02:08,011 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 06:02:08,032 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 06:02:08,035 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 06:02:08,036 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 06:02:08,037 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 06:02:08,060 - arbitrage_bot - INFO - Initialized bybit exchange
+2025-11-22 06:02:08,061 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 06:02:08,072 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 06:02:08,073 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 06:02:08,073 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 06:02:08,074 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 06:02:08,082 - arbitrage_bot - INFO - Initialized bybit exchange
+2025-11-22 06:02:08,083 - arbitrage_bot - WARNING - API credentials not found for binance
+2025-11-22 06:02:08,090 - arbitrage_bot - INFO - Initialized kucoin exchange
+2025-11-22 06:02:08,091 - arbitrage_bot - WARNING - API credentials not found for mexc
+2025-11-22 06:02:08,092 - arbitrage_bot - WARNING - API credentials not found for okx
+2025-11-22 06:02:08,092 - arbitrage_bot - WARNING - API credentials not found for gateio
+2025-11-22 06:02:08,102 - arbitrage_bot - INFO - Initialized bybit exchange

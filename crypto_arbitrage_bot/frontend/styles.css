@@ -376,3 +376,68 @@ button:hover {
     color: #4CAF50;
     opacity: 0.8;
 }
+
+/* Controls Section */
+.controls-section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 25px;
+    padding: 15px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+}
+
+.control-group {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex: 1;
+    min-width: 250px;
+}
+
+.control-group label {
+    font-weight: 600;
+    color: #555;
+    white-space: nowrap;
+    min-width: 100px;
+}
+
+.control-group input[type="text"],
+.control-group input[type="number"] {
+    flex: 1;
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 13px;
+}
+
+.control-group input:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 5px rgba(102, 126, 234, 0.2);
+}
+
+.exchange-select {
+    padding: 8px 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 13px;
+    background: white;
+    cursor: pointer;
+    min-width: 120px;
+}
+
+.exchange-select:focus {
+    outline: none;
+    border-color: #667eea;
+    box-shadow: 0 0 5px rgba(102, 126, 234, 0.2);
+}
+
+/* Highlight cells */
+td.highlight {
+    background-color: rgba(76, 175, 80, 0.1);
+    font-weight: bold;
+    color: #27ae60;
+}

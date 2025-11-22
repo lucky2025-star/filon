@@ -28,10 +28,34 @@
         <!-- Live Prices View -->
         <div id="prices" class="tab-content active">
             <h2>Live Price Comparison</h2>
+            
+            <!-- Controls -->
+            <div class="controls-section">
+                <div class="control-group">
+                    <label for="pairs-input">📊 Trading Pairs (comma-separated):</label>
+                    <input type="text" id="pairs-input" placeholder="BTC/USDT,ETH/USDT,XRP/USDT" value="BTC/USDT,ETH/USDT">
+                    <button onclick="updatePrices()" class="action-btn">🔄 Load Prices</button>
+                </div>
+                
+                <div class="control-group">
+                    <label for="exchange-filter">🏢 Filter by Exchange:</label>
+                    <select id="exchange-filter" onchange="updatePrices()" class="exchange-select">
+                        <option value="">All Exchanges</option>
+                        <option value="binance">Binance</option>
+                        <option value="kucoin">KuCoin</option>
+                        <option value="bybit">Bybit</option>
+                        <option value="mexc">MEXC</option>
+                        <option value="okx">OKX</option>
+                        <option value="gateio">Gate.io</option>
+                    </select>
+                </div>
+            </div>
+
             <table class="price-table">
                 <thead>
                     <tr>
                         <th>Exchange</th>
+                        <th>Pair</th>
                         <th>Bid</th>
                         <th>Ask</th>
                         <th>Last Trade</th>
@@ -39,7 +63,7 @@
                     </tr>
                 </thead>
                 <tbody id="price-tbody">
-                    <tr><td colspan="5">Loading...</td></tr>
+                    <tr><td colspan="6">Loading...</td></tr>
                 </tbody>
             </table>
         </div>
@@ -68,6 +92,29 @@
         <!-- Account Balances -->
         <div id="balances" class="tab-content">
             <h2>Account Balances</h2>
+            
+            <!-- Controls -->
+            <div class="controls-section">
+                <div class="control-group">
+                    <label for="balance-exchange-filter">🏢 Select Exchange:</label>
+                    <select id="balance-exchange-filter" onchange="updateBalances()" class="exchange-select">
+                        <option value="">All Exchanges</option>
+                        <option value="binance">Binance</option>
+                        <option value="kucoin">KuCoin</option>
+                        <option value="bybit">Bybit</option>
+                        <option value="mexc">MEXC</option>
+                        <option value="okx">OKX</option>
+                        <option value="gateio">Gate.io</option>
+                    </select>
+                </div>
+                
+                <div class="control-group">
+                    <label for="asset-filter">💰 Filter Asset:</label>
+                    <input type="text" id="asset-filter" placeholder="Search asset (e.g., BTC, USDT)" onchange="updateBalances()">
+                    <button onclick="updateBalances()" class="action-btn">🔄 Refresh</button>
+                </div>
+            </div>
+
             <table class="balances-table">
                 <thead>
                     <tr>
@@ -76,10 +123,11 @@
                         <th>Available</th>
                         <th>On Order</th>
                         <th>Total</th>
+                        <th>Value (USD est.)</th>
                     </tr>
                 </thead>
                 <tbody id="balances-tbody">
-                    <tr><td colspan="5">Loading...</td></tr>
+                    <tr><td colspan="6">Loading...</td></tr>
                 </tbody>
             </table>
         </div>
